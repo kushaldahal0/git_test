@@ -1,2 +1,4 @@
-# git_test
-trying out git here
+console.log("hello_github")
+
+console.log("hi_github again for modification")
+
