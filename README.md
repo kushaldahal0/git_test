@@ -1,4 +1,6 @@
-console.log("hello_github")
+# git_test
 
-console.log("hi_github again for modification")
-
+testing the github 
+then adding , commiting the txt
+again modifying the txt and readme
+again trying to modify the readme
